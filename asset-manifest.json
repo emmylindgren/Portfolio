@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c719efc4.css",
+    "main.js": "/Portfolio/static/js/main.5184c362.js",
+    "static/media/EmmyLindgrenCV.pdf": "/Portfolio/static/media/EmmyLindgrenCV.23ee5b555fe0d1c50499.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.c719efc4.css.map": "/Portfolio/static/css/main.c719efc4.css.map",
+    "main.5184c362.js.map": "/Portfolio/static/js/main.5184c362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c719efc4.css",
+    "static/js/main.5184c362.js"
+  ]
+}
